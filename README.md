@@ -1,4 +1,4 @@
-## Hello World! I'm Dika Vidi Pratama 👋
+![Header](asset/github-header-banner.png)
 
 <!--
 **DzIkaelldev/DzIkaelldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning the [**Next.js**](https://nextjs.org) and [**Laravel**](https://laravel.com) frameworks.🚀   
+- 🎓 11th-Grade **Software engineering** at @(https://smkn1jenpo.sch.id/) 
+- 🌱 I’m currently learning the [**Next.js**](https://nextjs.org) and [**Laravel**](https://laravel.com) frameworks.🚀
