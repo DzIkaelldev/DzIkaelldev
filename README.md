@@ -9,6 +9,7 @@
 - 🎯 my goal is became to **FullStack Developer** and **Cyber Security Analyst**
 
 ### 🌱 Currently learning
-<a href="https://nextjs.org//" target="_blank"><img src="https://svgl.app/library/nextjs_logo_dark.svg" alt="Next.js" width="40" height="40"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://svgl.app/library/php_dark.svg" alt="PHP" width="40" height="40"/></a>
+
+<a href="https://nextjs.org//" target="_blank"><img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://svgl.app/library/laravel.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://svgl.app/library/php_dark.svg" alt="PHP" width="40" height="40"/></a>
